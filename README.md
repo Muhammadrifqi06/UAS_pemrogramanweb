@@ -4,8 +4,8 @@
 
 # UAS PEMROGRAMAN
 
-## Link Vidio :
-https://drive.google.com/file/d/19yqnPqolktbS9FXO7jYO4IUr4ksJuzOh/view?usp=sharing
+## Link Vidio Youtube :
+https://youtu.be/RlAKcA6d4SQ
 
 
 ## 1.	Tampilan database pada PhpMyAdmin
